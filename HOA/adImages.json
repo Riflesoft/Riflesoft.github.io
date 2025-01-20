@@ -5,17 +5,17 @@
       {
           "Name": "Game 1",
           "Description": "This is Game 1",
-          "IconUrl": "https://riflesoft.github.io/HOA/imagesAds/ad1.jpg"
+          "IconUrl": "default"
       },
       {
           "Name": "Game 2",
           "Description": "This is Game 2",
-          "IconUrl": "https://riflesoft.github.io/HOA/imagesAds/ad1.jpg"
+          "IconUrl": "default"
       },
       {
           "Name": "Game 3",
           "Description": "This is Game 3",
-          "IconUrl": "https://riflesoft.github.io/HOA/imagesAds/ad1.jpg"
+          "IconUrl": "default"
       },
       {
           "Name": "Game 4",
